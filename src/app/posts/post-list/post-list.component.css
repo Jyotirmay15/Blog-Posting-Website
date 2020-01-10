@@ -10,3 +10,7 @@ mat-spinner {
   text-align: center;
 }
 
+.post-image img{
+  width: 80%;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+}
